@@ -1,2 +1,3 @@
 - trouble getting the footer to stay at the bottom
+- trouble getting the cards formatted
 
